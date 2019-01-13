@@ -1,0 +1,277 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+header
+{
+	background-color: #3B5998;
+}
+.wrapper
+{
+	width: 60%;
+	margin: 0 auto; 
+	overflow: hidden;
+	/*border:1px solid;*/
+}
+.logo
+{
+	float: left;
+    width: 15%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.logo img
+{
+	width: 100%;
+}
+.form1
+{
+	float: right;
+	width: 43%;
+	overflow: hidden;
+	/*border:1px solid;*/
+	padding-top: 20px;
+}
+.email1
+{
+    width: 32%;
+    float: left;
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+    /*border: 1px solid;*/
+    padding-left: 126px;
+}
+
+.password1
+{
+	width: 32%;
+    float: left;
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+    /*border: 1px solid;*/
+}
+.f_account
+{
+	
+
+}
+.f_account a
+{
+	color: #8fb4cc;
+	font-size: 13px;
+	text-decoration: none;
+
+}
+.f_account:hover a
+{
+	text-decoration: underline;
+}
+.button1
+{
+   float: right;
+   /*border: 1px solid;*/
+   margin-top: 15px;
+/*padding-top: 1px;*/
+
+}
+.buttontype
+{
+	background-color: #4267b2;
+    border :1px solid #29487d;
+    height: 23px;
+    width: 48px;
+    transition: .5s;
+}
+.buttontype span
+{
+	color: white;
+	font-size: 12px;
+}
+.buttontype:hover 
+{
+	background-color:#3B5998;
+}
+
+
+
+
+
+
+/*header end*/
+
+
+
+
+
+
+
+/*body start*/
+
+#body {
+	background-color: #EEF0F6;
+}
+
+
+.picture {
+	width: 48%;
+	/*border: 1px solid;*/
+	float: left;
+	    margin-top: 10px;
+}
+
+.connect {
+	color: #0e385f;
+}
+
+.pic_img {
+	
+}
+.pic_img img
+{
+	width: 100%;
+}
+
+.form2 {
+	width: 35%;
+	float: right;
+	/*border: 1px solid;*/
+	
+}
+
+.creat {
+	font-size: 42px;
+	font-weight: 600;
+	color: #333;
+	margin-bottom: 0px;
+	margin-top: 15px;
+
+}
+
+.free {
+	color: #1d2129;
+	font-size: 20px;
+	margin-top: 5px;
+}
+
+.form_container {
+
+}
+.names
+{
+	overflow: hidden;
+	/*border: 1px solid;*/
+}
+
+.f_name {
+	float: left;
+}
+
+.last_name {
+	float: right;
+}
+
+.emailOrPhone {
+	    margin-top: 12px;
+}
+
+.password2 {
+	margin-top: 12px;
+}
+
+.birthdate {
+	overflow: hidden;
+}
+.bd
+{
+	color: #1d2129;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 5px;
+    margin-top: 23px;
+}
+.bdl
+{
+	float: left;
+	width: 40%
+}
+.why_date {
+	float: right;
+    width: 40%;
+    padding-top: 24px;
+    padding-right: 77px;
+
+}
+.why_date  a{
+	text-decoration: none;
+	font-size: 11px;
+color: #365899;
+	
+}
+
+.gender {
+	font-size: 21px;
+    font-weight: 400;
+    margin-top: -9px;
+}
+
+
+
+
+.terms {
+	color: #777;
+font-size: 11px;
+width: 70%;
+
+}
+.terms a
+{
+	text-decoration: none;
+	color: #365899;
+}
+
+.signup {
+
+}
+
+.button2 {
+	width: 170px; 
+	height: 35px;
+background-color: #5A8F46;
+border:1px solid #2c5115;
+}
+.button2 span
+{
+	color: white;
+	font-size: 16px;
+}
+.button2:hover 
+{
+	background-color:#65aa53;
+}
+.celebrity {
+
+border-top: 1px solid #dddfe2;
+color: #666;
+font-size: 14px;
+font-weight: bold;
+margin-top: 10px;
+padding-top: 15px;
+
+}
+
+.celebrity a
+{
+	text-decoration: none;
+	color: #365899;
+}
+footer
+{
+
+}
+footer img
+{
+	width: 100%;
+}
